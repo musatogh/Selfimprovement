@@ -17,5 +17,4 @@ int main() {
         printf("%d/%d/%d earlier than %d/%d/%d", m2, d2, y2, m1, d1, y1);
     }
 
-
 }
